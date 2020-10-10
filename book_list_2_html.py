@@ -13,7 +13,7 @@ df_list = [df_books, df_bd, df_collect, df_textbook]
 
 cols = df_books.columns.values
 
-cols = [cols[0], cols[1], cols[2], cols[3]]
+cols = [cols[1], cols[2], cols[3]]
 
 i = 0
 
